@@ -1,21 +1,19 @@
-function insert(num){
-    document.form.textview.value = document.form.textview.value+num;
-}
+let getEl = document.querySelector('#input')
+const insert = (num) => (getEl.value = getEl.value + num)
 
-function clean(){
-    document.form.textview.value="";
-}
+const clean = () => getEl.value = ''
 
-function equal(){
-    let exp=document.form.textview.value;
-    if(exp){
-        document.form.textview.value=eval(exp);
+const equal=() => {
+    let result = getEl.value
+    if (result) {
+        getEl.value = eval(result)
     }
 }
-function percent(){
-    let exp=document.form.textview.value;
-    if(exp){
-        document.form.textview.value=eval(exp);
+
+const percent= () => {
+    let result = getEl.value
+    if (result) {
+        getEl.value = eval(result)
     }
-document.form.textview.value=exp*0.01
+  getEl.value = result * 0.01
 }
