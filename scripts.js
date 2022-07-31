@@ -1,13 +1,11 @@
 const getEl = document.querySelector('#input')
-const insert = (num) => {getEl.value = getEl.value + num}
+const insert = num => getEl.value = getEl.value + num
 
-
-const clean = () => (getEl.value = '')
+const clean = () => getEl.value = ''
 
 const equal = () => {
     let result = getEl.value
     getEl.value = stringMath(result)
-    
 }
 
 const percent = () => {
