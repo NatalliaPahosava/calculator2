@@ -1,4 +1,10 @@
 # Logs
+.firebase
+.vscode
+.firebase
+404.html
+firebase.json
+
 logs
 *.log
 npm-debug.log*
