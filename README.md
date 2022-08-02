@@ -1,12 +1,15 @@
-Calculator
+## My JS Calculator
 
 Creating a Calculator with Javascript without eval function (stringMath)
 
+## Parameters
 
 HTML
 CSS
 Bootstrap
 Firebase Hosting
+
+
 ## Demo
 See the [demo link](https://calculator2-a3d17.firebaseapp.com/) on Firebase. 
 
