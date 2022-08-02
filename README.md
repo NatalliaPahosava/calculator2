@@ -1,4 +1,4 @@
-Calculator
+## My JS Calculator
 
 Creating a Calculator with Javascript without eval function (stringMath)
 
