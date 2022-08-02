@@ -1,5 +1,11 @@
 
-/Users/natalliapahosava/bocacode/calculator2/404.html
+api/node_modules
+api/package.json
+api/package-lock.json
+.firebase
+.firebaserc
+firebase.json
+
 # Logs
 logs
 *.log
