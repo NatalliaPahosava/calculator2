@@ -1,13 +1,13 @@
-## My JS Calculator
+# My JS Calculator
 
 Creating a Calculator with Javascript without eval function (stringMath)
-
+___
 ## Parameters
 
-ulHTML
-ulCSS
-ulBootstrap
-ulFirebase Hosting
++HTML
++CSS
++Bootstrap
++Firebase Hosting
 
 
 ## Demo
