@@ -4,10 +4,10 @@ Creating a Calculator with Javascript without eval function (stringMath)
 
 ## Parameters
 
-HTML
-CSS
-Bootstrap
-Firebase Hosting
+-HTML
+-CSS
+-Bootstrap
+-Firebase Hosting
 
 
 ## Demo
