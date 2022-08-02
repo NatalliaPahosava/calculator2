@@ -1,3 +1,5 @@
+//credit to > @devrafalko https://github.com/devrafalko/string-math.git
+
 function stringMath(eq, callback) {
     if (typeof eq !== 'string') return handleCallback(new TypeError('The [String] argument is expected.'), null);
     const mulDiv = /([+-]?\d*\.?\d+(?:e[+-]\d+)?)\s*([*/])\s*([+-]?\d*\.?\d+(?:e[+-]\d+)?)/;
