@@ -1,10 +1,9 @@
 
-api/node_modules
-api/package.json
-api/package-lock.json
-.firebase
+.vscode
 .firebaserc
 firebase.json
+.firebase
+404.html
 
 # Logs
 logs
